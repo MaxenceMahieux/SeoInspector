@@ -1,4 +1,4 @@
-function About() {
+function Links() {
     return (
         <div>
             <h2>À propos</h2>
@@ -7,4 +7,4 @@ function About() {
     )
 }
 
-export default About;
+export default Links;
