@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "SEO Extension",
+  "version": "1.0",
+  "description": "Une extension SEO simple avec React et Typescript.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "SEO Extension"
+  },
+  "permissions": [],
+  "host_permissions": [],
+  "icons": {
+    "128": "icon-128.png"
+  }
+}
