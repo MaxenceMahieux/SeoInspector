@@ -1,8 +1,9 @@
+import Audit from "./analysis/Audit.tsx";
+
 function Analysis() {
     return (
-        <div>
-            <h2>À propos</h2>
-            <p>Bienvenue sur la page about !</p>
+        <div className={`p-4`}>
+            <Audit />
         </div>
     )
 }

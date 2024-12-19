@@ -19,7 +19,7 @@ function Navbar() {
                             to={tab.url}
                             className={({isActive}) =>
                                 `w-full flex items-center justify-center gap-3 border-b-2 px-4 py-4 text-center text-sm font-medium duration-200 ${
-                                    isActive ? "border-amber-400 text-zinc-800" : "border-transparent text-gray-400 hover:border-gray-300 hover:text-gray-700"
+                                    isActive ? "border-amber-400 text-amber-900" : "border-transparent text-gray-400 hover:border-gray-300 hover:text-gray-700"
                                 }`
                             }
                         >
