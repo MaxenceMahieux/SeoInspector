@@ -1,4 +1,4 @@
-function Links() {
+function Analysis() {
     return (
         <div>
             <h2>À propos</h2>
@@ -7,4 +7,4 @@ function Links() {
     )
 }
 
-export default Links;
+export default Analysis;
